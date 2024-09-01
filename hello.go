@@ -10,6 +10,6 @@ const pi float64 = 3.1417
 // type declaration
 type counter = int
 
-func hello(){
+func hellos(){
 	fmt.Println("Hello running...")
 }
